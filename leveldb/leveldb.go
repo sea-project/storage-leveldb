@@ -1,7 +1,7 @@
 package leveldb
 
 import (
-	"github.com/sea-project/sea-pkg/chaindb/types"
+	"github.com/sea-project/storage-leveldb/types"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/errors"
 	"github.com/syndtr/goleveldb/leveldb/filter"
